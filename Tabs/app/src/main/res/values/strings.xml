@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txt_first_fragment">Fragmento UM</string>
+    <string name="txt_second_fragment">Fragmento DOIS</string>
+    <string name="txt_third_fragment">Fragmento TRÊS</string>
+</resources>
